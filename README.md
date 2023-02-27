@@ -2,7 +2,7 @@
 
 - 🌵 Estudando Cloud Computing atualmente 
 - 🌎 Moro em Passos/MG
-- 💻 AZ-900 ✅ | AZ-104 ⏳
+- 💻 Cloud Architect in progress ☁️ | AZ-900 ✅ | AZ-104 ⏳ | Az-700 ⏳ | Az-305⏳
 
 
 <div>
