@@ -5,7 +5,7 @@
   
   <p align='center'>
   <a href="https://www.linkedin.com/in/kawansilva29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/imkawann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/imkawann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a> 
    </p>
    
 <p align='center'>
@@ -14,10 +14,15 @@
 </p>
    
  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ksilva-kwn&theme=gotham)
+  
+  ##
  
    ### Studying in this moment:
  <a href="AZURE"><img src="https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=flat&logo=MicrosoftAzure&logoColor=white"></a>
+ <a href="Linux"> <img src="https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux&labelColor"></a>
    
+  ##
+  
   ### Tools:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
