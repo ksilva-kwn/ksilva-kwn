@@ -3,6 +3,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello%2C+my+name+is+Kawan+Silva;I'm+18+years+old;I'm+from+Brazil%2C+Minas+Gerais;I'm+Studying+Cloud+Computing+;Be+Welcome!" alt="Typing SVG" /></a>
   
+  ##
+  
   <p align='center'>
   <a href="https://www.linkedin.com/in/kawansilva29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/imkawann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -19,7 +21,7 @@
  
    ### Studying in this moment:
  <a href="AZURE"><img src="https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=flat&logo=MicrosoftAzure&logoColor=white"></a>
- <a href="Linux"> <img src="https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux&labelColor"></a>
+ <a href="LINUX"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000"></a>
    
   ##
   
