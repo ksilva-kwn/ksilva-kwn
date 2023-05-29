@@ -4,11 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00878a&width=435&lines=Hello+World%2C+my+name+is+Kawan+Silva;I'm+18+years+old;I'm+from+Brazil%2C+Minas+Gerais;I'm+Studying+Cloud+Computing+;Be+Welcome!" alt="Typing SVG" /></a>
   
   ##
-   
-<p align='center'>
- <a href="https://github.com/ksilva-kwn">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ksilva-kwn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
+     
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksilva-kwn&show_icons=true&theme=tokyonight)](https://github.com/ksilva-kwn/github-readme-stats)
   
   <p align='center'>
   <a href="https://www.linkedin.com/in/kawansilva29" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
