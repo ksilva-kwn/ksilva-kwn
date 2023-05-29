@@ -14,8 +14,6 @@
  <a href="https://github.com/ksilva-kwn">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ksilva-kwn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
-   
- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ksilva-kwn&theme=gotham)
   
   ##
  
