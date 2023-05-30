@@ -36,7 +36,7 @@
 <summary> My Certificates </summary>
   
 <!--START_SECTION:badges-->
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/96x96/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/ad151c3d-cc81-45ee-afc3-7b8eda77add9/public_url "Microsoft Certified: Azure Fundamentals")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/70x70/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/ad151c3d-cc81-45ee-afc3-7b8eda77add9/public_url "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges--> 
    </details>
   
