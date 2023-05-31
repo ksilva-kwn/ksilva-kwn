@@ -26,23 +26,22 @@
   <a href="https://www.linkedin.com/in/kawansilva29" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/imkawann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kwnsilva@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5535997496400" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee" target="_blank"></a> 
-  
+  <a href="https://api.whatsapp.com/send?phone=5535997496400" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee" target="_blank"</a> 
 </div>
    
+  <div align="center"> 
+  
+  ![snake gif](https://github.com/ksilva-kwn/ksilva-kwn/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
+  
   ##
-  
-  
-<details>
-<summary> My Certificates </summary>
+   
+ My Certificates
    
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/70x70/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/ad151c3d-cc81-45ee-afc3-7b8eda77add9/public_url "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges--> 
-   </details>
-   
-   ##
-  
-  ![snake gif](https://github.com/ksilva-kwn/ksilva-kwn/blob/output/github-contribution-grid-snake.svg)
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+     
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
