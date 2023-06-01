@@ -7,7 +7,7 @@
   
 <div align="center"> 
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksilva-kwn&show_icons=true&theme=tokyonight)](https://github.com/ksilva-kwn/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksilva-kwn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksilva-kwn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
