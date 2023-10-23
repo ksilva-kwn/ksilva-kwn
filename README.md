@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00878a&width=435&lines=Hello+World%2C+my+name+is+Kawan+Silva;I'm+18+years+old;I'm+from+Brazil%2C+Minas+Gerais;I'm+Studying+Cloud+Computing+;Be+Welcome!" alt="Typing SVG" /></a>
   
-  ## 
+ 
   
 <div align="center"> 
   
@@ -13,7 +13,9 @@
 </div>
 
 
-<div align="center" valign="top"><br>
+<div align="center" valign="top" ><br>
+
+<i>Technologies and social media</i>
 
   <img align="center" alt="Windows" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   
@@ -47,13 +49,20 @@
     
   </div>
   
-  ##
-   
- My Certificates
+ My certificates 
    
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/70x70/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/ad151c3d-cc81-45ee-afc3-7b8eda77add9/public_url "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges--> 
+
+  ##
+ <div align="center" valign="top"><br>
+
+  <i>A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+
+  <img src="https://github.com/ksilva-kwn/ksilva-kwn/blob/main/TAI.gif" width="600" height="300">
+  
+</div><br>
      
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
