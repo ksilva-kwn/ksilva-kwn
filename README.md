@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Kawan+Silva;I+live+in+Brazil%2C+Minas+Gerais;Im+studying+Cloud+Computing;and+focused+on+DevOps+practices;Be+welcome+to+my+profile!!!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&random=false&width=435&lines=Hello+World!!!🌎;My+name+is+Kawan+Silva;I+live+in+Brazil%2C+Minas+Gerais;I'm+studying+Cloud+Computing;and+focused+on+DevOps+practices;Be+welcome+to+my+profile!!!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
  
