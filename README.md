@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00878a&width=435&lines=Hello+World%2C+my+name+is+Kawan+Silva;I'm+18+years+old;I'm+from+Brazil%2C+Minas+Gerais;I'm+Studying+Cloud+Computing+;Be+Welcome!" alt="Typing SVG" /></a>
+<div align="center"> 
   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Kawan+Silva;I+live+in+Brazil%2C+Minas+Gerais;Im+studying+Cloud+Computing;and+focused+on+DevOps+practices;Be+welcome+to+my+profile!!!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
  
   
 <div align="center"> 
