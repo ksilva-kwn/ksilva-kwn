@@ -52,6 +52,7 @@
 <!--END_SECTION:badges--> 
 
   ##
+  
  <div align="center" valign="top"><br>
 
   <i>A magical universe can be born from small ideas! ⭐️</i> <br> <br>
@@ -60,5 +61,4 @@
   
 </div><br>
      
-
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
