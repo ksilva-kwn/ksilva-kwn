@@ -12,6 +12,8 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksilva-kwn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksilva-kwn&layout=donut&icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksilva-kwn&bg_color=0d1117&color=058182&line=058182&point=00fa4f&area=true&hide_border=true&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 
@@ -60,5 +62,11 @@
   <img src="https://github.com/ksilva-kwn/ksilva-kwn/blob/main/TAI.gif" width="600" height="300">
   
 </div><br>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ksilva-kwn}/count.svg" /></p> 
+<br>
+</div>
      
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
