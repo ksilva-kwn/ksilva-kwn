@@ -33,9 +33,15 @@
   
   <img align="center" alt="cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
+  <img align="center" alt="bash" height="50" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+
   <img align="center" alt="Azure" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   
   <img align="center" alt="Docker" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+
+  <img align="center" alt="vagrant" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
+
+  <img align="center" alt="postgree" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgree/postgree-original.svg">
   
 </div><br>
           
