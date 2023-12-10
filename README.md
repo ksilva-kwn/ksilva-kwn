@@ -19,7 +19,7 @@
 
 <div align="center" valign="top" ><br>
 
-<i>Technologies and social media</i>
+### Technologies and social media
 
   <img align="center" alt="Windows" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   
@@ -49,7 +49,7 @@
   <a href="https://api.whatsapp.com/send?phone=5535997496400" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee" target="_blank"</a> 
 </div>
   
- My certificates 
+#### My certificates 
    
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/70x70/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/ad151c3d-cc81-45ee-afc3-7b8eda77add9/public_url "Microsoft Certified: Azure Fundamentals")
@@ -59,7 +59,7 @@
   
  <div align="center" valign="top"><br>
 
-  <i>A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ ### A magical universe can be born from small ideas! ⭐️ <br> <br>
 
   <img src="https://github.com/ksilva-kwn/ksilva-kwn/blob/main/TAI.gif" width="600" height="300">
   
