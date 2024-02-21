@@ -34,7 +34,7 @@
 
 
 <div align="center" style="display: inline_block"><br>
-    <h1>Meus Projetos!</h1>
+    <h1>My Projects!</h1>
     <a href = "https://github.com/ksilva-kwn/meu-site"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=my-new-portfolio&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
     <a href = "https://github.com/ksilva-kwn/SuperMario_Docker_Nuvem"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=SuperMario_Docker_Nuvem&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
     <a href = "https://github.com/ksilva-kwn/Desafio-Mentoria-Cloud-3.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=Desafio-Mentoria-Cloud-3.0&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
