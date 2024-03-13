@@ -21,7 +21,7 @@
 
 ### Technologies and Social Media
 
- <img src="https://skillicons.dev/icons?i=windows,linux,bash,azure,docker,github,postgres,sqlite,vim,vscode,py,cpp " />
+ <img src="https://skillicons.dev/icons?i=windows,linux,bash,azure,docker,github,postgres,sqlite,vim,vscode" />
 
 </div><br>
                 
