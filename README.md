@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&random=false&width=435&lines=Hello+World!!!🌎;My+name+is+Kawan+Silva;I+live+in+Brazil%2C+Minas+Gerais;I'm+studying+Cloud+Computing;and+focused+on+DevOps+practices;Be+welcome+to+my+profile!!!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&random=false&width=550&lines=Hello+World!!!🌎;My+name+is+Kawan+Silva;I+live+in+Brazil%2C+Minas+Gerais;I'm+studying+Cloud+Computing;and+focused+on+DevOps+practices;Be+welcome+to+my+profile!!!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
  
@@ -12,8 +12,9 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksilva-kwn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksilva-kwn&layout=donut&icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksilva-kwn&bg_color=0d1117&color=058182&line=058182&point=00fa4f&area=true&hide_border=true&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ksilva-kwn&theme=tokyonight&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+ 
 </div>
 
 
