@@ -61,7 +61,7 @@
 
  ### A magical universe can be born from small ideas! ⭐️ <br> <br>
 
-  <img src="https://github.com/ksilva-kwn/ksilva-kwn/blob/main/TAI.gif" width="600" height="300">
+  <img src="https://github.com/ksilva-kwn/icones-pro-perfil/blob/main/giphy.webp" width="350" height="300">
   
 </div><br>
 
