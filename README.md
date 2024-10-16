@@ -4,6 +4,14 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&random=false&width=550&lines=Hello+World!!!🌎;My+name+is+Kawan+Silva;I+live+in+Brazil%2C+Minas+Gerais;I'm+studying+Cloud+Computing;and+focused+on+DevOps+practices;Be+welcome+to+my+profile!!!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
 
+<img src="https://github.com/ksilva-kwn/icones-pro-perfil/blob/main/giphy.webp" width="350" height="300">
+
+ <div align="center" valign="top"><br>
+
+ ### A magical universe can be born from small ideas! ⭐️ <br> <br>
+  
+</div><br>
+
 </div>
  
   
@@ -17,20 +25,12 @@
  
 </div>
 
-
-<div align="center" valign="top" ><br>
-
-### Technologies and Social Media
-
- <img src="https://skillicons.dev/icons?i=windows,linux,bash,azure,docker,github,postgres,sqlite,vim,vscode" />
-
-</div><br>
-                
-<div align="center">
-  <a href="https://www.linkedin.com/in/kawansilva29" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/imkawann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kwnsilva@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5535997496400" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee" target="_blank"</a> 
+<div align="center" style="display: inline_block"><br>
+    <h2>My Projects!</h2>
+    <a href = "https://github.com/ksilva-kwn/meu-site"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=my-new-portfolio&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
+    <a href = "https://github.com/ksilva-kwn/SuperMario_Docker_Nuvem"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=SuperMario_Docker_Nuvem&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
+    <a href = "https://github.com/ksilva-kwn/Desafio-Mentoria-Cloud-3.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=Desafio-Mentoria-Cloud-3.0&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
+    <a href = "https://github.com/ksilva-kwn/Postgre-No-Docker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=Postgre-No-Docker&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
 </div>
 
 
@@ -46,24 +46,22 @@
 <!--END_SECTION:badges--> 
 
 </div>
-  
 
-<div align="center" style="display: inline_block"><br>
-    <h2>My Projects!</h2>
-    <a href = "https://github.com/ksilva-kwn/meu-site"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=my-new-portfolio&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
-    <a href = "https://github.com/ksilva-kwn/SuperMario_Docker_Nuvem"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=SuperMario_Docker_Nuvem&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
-    <a href = "https://github.com/ksilva-kwn/Desafio-Mentoria-Cloud-3.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=Desafio-Mentoria-Cloud-3.0&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
-    <a href = "https://github.com/ksilva-kwn/Postgre-No-Docker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksilva-kwn&repo=Postgre-No-Docker&theme=tokyonight&description_lines_count=2&border_color=058182&text_color=ffffff"/></a>
-</div>
+<div align="center" valign="top" ><br>
 
+### Technologies and Social Media
 
- <div align="center" valign="top"><br>
+ <img src="https://skillicons.dev/icons?i=windows,linux,bash,azure,docker,github,postgres,sqlite,vim,vscode" />
 
- ### A magical universe can be born from small ideas! ⭐️ <br> <br>
-
-  <img src="https://github.com/ksilva-kwn/icones-pro-perfil/blob/main/giphy.webp" width="350" height="300">
-  
 </div><br>
+                
+<div align="center">
+  <a href="https://www.linkedin.com/in/kawansilva29" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/imkawann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:kwnsilva@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5535997496400" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee" target="_blank"</a> 
+</div>
+  
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
