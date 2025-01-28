@@ -57,7 +57,7 @@
 <div align="center">    
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksilva-kwn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksilva-kwn&layout=donut&icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ksilva-kwn&theme=tokyonight&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
