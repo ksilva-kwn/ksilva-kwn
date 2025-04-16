@@ -85,7 +85,7 @@
 <br>
 <br>
   
- <img src="https://skillicons.dev/icons?i=windows,linux,bash,azure,docker,k8s,github,vim,vscode" />
+ <img src="https://skillicons.dev/icons?i=windows,linux,bash,azure,docker,k8s,terraform,github,vim,vscode" />
 
  <br>
  <br>
