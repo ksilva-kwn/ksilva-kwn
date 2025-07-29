@@ -46,8 +46,9 @@
 ### Certifieds
    
 <!--START_SECTION:badges-->
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/ad151c3d-cc81-45ee-afc3-7b8eda77add9/public_url "Microsoft Certified: Azure Fundamentals")
-<img src="https://images.credly.com/size/110x110/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/>
+<img src="https://images.credly.com/size/150x150/images/1753abbc-4e44-4864-87cd-81016f1a7dc0/OCI25CAA_cached_image_20250729-33-pzec2y.png"/>
+<img src="https://images.credly.com/size/150x150/images/7452b16e-d6cd-4b1c-86da-c15817e2a102/OCI25FNDCFAV1_cached_image_20250430-28-nj72i0.png"/>
+<img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
 <!--END_SECTION:badges--> 
 
 </div>
