@@ -46,7 +46,7 @@
 ### Certifieds
    
 <!--START_SECTION:badges-->
-<img src="https://images.credly.com/size/150x150/images/898f4052-5dc8-41be-988d-471009a6fc69/OCID25CP_cached_image_20250916-32-rubj32.png"/>
+<img src="https://images.credly.com/size/150x150/images/ffb80b95-52af-432a-b666-b60776618395/OCI25MAOCP_cached_image_20251002-31-cd0i2c.png"/>
 <img src="https://images.credly.com/size/150x150/images/898f4052-5dc8-41be-988d-471009a6fc69/OCID25CP_cached_image_20250916-32-rubj32.png"/>
 <img src="https://images.credly.com/size/150x150/images/1753abbc-4e44-4864-87cd-81016f1a7dc0/OCI25CAA_cached_image_20250729-33-pzec2y.png"/>
 <img src="https://images.credly.com/size/150x150/images/7452b16e-d6cd-4b1c-86da-c15817e2a102/OCI25FNDCFAV1_cached_image_20250430-28-nj72i0.png"/>
